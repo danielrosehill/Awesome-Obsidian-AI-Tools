@@ -1,5 +1,7 @@
 # Awesome Obsidian AI Tools [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+[![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-181717?logo=github&logoColor=white)](https://github.com/danielrosehill/Awesome-Obsidian-AI-Tools)
+
 > Obsidian projects (usually plugins) focused on leveraging AI and LLMs inside of Obsidian vaults
 
 ## Plugin URLs
