@@ -22,6 +22,12 @@
   - [Plugins](#plugins)
 
 
+ ## Obsidian-Milvus-FastMCP
+
+A powerful, production-ready system that connects your Obsidian vault to Claude Desktop via FastMCP, leveraging Milvus vector database for intelligent document search and retrieval.
+
+[https://github.com/jayjeo/obsidian-milvus-FastMCP](https://github.com/jayjeo/obsidian-milvus-FastMCP)
+
  ## AI Chat
 
 Chat with AI about your notes.
