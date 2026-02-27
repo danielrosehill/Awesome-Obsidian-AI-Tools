@@ -1070,3 +1070,23 @@ No description available.
 *Updated: 2025-11-25*
 
 ---
+
+## MCP Servers for Obsidian
+
+Model Context Protocol (MCP) servers that provide AI agents with access to your Obsidian vault.
+Unlike Obsidian plugins, these run as external servers and enable AI assistants to read, write, and search your notes.
+
+---
+
+### EVC Team Relay MCP
+
+[![GitHub stars](https://img.shields.io/github/stars/entire-vc/evc-team-relay-mcp?style=flat-square)](https://github.com/entire-vc/evc-team-relay-mcp)
+[![GitHub](https://img.shields.io/badge/GitHub-entire--vc%2Fevc--team--relay--mcp-181717?logo=github)](https://github.com/entire-vc/evc-team-relay-mcp)
+[![PyPI](https://img.shields.io/pypi/v/evc-team-relay-mcp?style=flat-square)](https://pypi.org/project/evc-team-relay-mcp/)
+[![Smithery](https://smithery.ai/badge/entire-vc/evc-team-relay-mcp)](https://smithery.ai/server/entire-vc/evc-team-relay-mcp)
+
+Give AI agents (Claude, Cursor, etc.) read/write access to your Obsidian vault via MCP. Supports listing notes, reading, writing, searching, and listing folders. Designed for team collaboration with multi-user shared vault access.
+
+**Tools:** `list_notes`, `read_note`, `write_note`, `search_notes`, `list_folders`
+
+---
