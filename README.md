@@ -212,6 +212,16 @@ Obsidian plugin for AI-generated note refreshers
 *Updated: 2024-10-18*
 
 ---
+#### Omega Obsidian
+
+[![GitHub stars](https://img.shields.io/github/stars/singularityjason/omega-obsidian?style=flat-square)](https://github.com/singularityjason/omega-obsidian)
+[![GitHub](https://img.shields.io/badge/GitHub-singularityjason%2Fomega--obsidian-181717?logo=github)](https://github.com/singularityjason/omega-obsidian)
+
+Persistent semantic memory MCP server for Obsidian vaults. Gives coding agents long-term memory of your notes with semantic search, graph traversal, and cross-session persistence. Powered by OMEGA.
+
+*Updated: 2026-03-14*
+
+---
 ### Local LLM Integration
 
 *11 plugins | 4,001 total stars*
