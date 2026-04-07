@@ -1040,6 +1040,14 @@ No description available.
 *Updated: 2025-10-18*
 
 ---
+#### Obsidian Theme Designer
+
+[![GitHub stars](https://img.shields.io/github/stars/XiangyuSu611/obsidian-theme-designer?style=flat-square)](https://github.com/XiangyuSu611/obsidian-theme-designer)
+[![GitHub](https://img.shields.io/badge/GitHub-XiangyuSu611%2Fobsidian--theme--designer-181717?logo=github)](https://github.com/XiangyuSu611/obsidian-theme-designer)
+
+A Claude Code skill for designing Obsidian themes visually in the browser — style direction, color palette, font showcase, dual light/dark mode preview, and automated font installation. No CSS knowledge needed.
+
+---
 ### Automation & Computer Control
 
 *1 plugins | 33 total stars*
