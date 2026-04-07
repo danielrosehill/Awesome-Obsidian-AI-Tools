@@ -1055,6 +1055,17 @@ The power of Open Interpreter in your Obsidian vault
 *Updated: 2025-11-17*
 
 ---
+### Marketplaces & Skill Sharing
+
+*1 resource*
+
+#### RemoteOpenClaw
+
+[![Website](https://img.shields.io/badge/Website-remoteopenclaw.com-blue)](https://remoteopenclaw.com)
+
+Open marketplace for discovering, sharing, and distributing AI skills and personas built on [OpenClaw](https://github.com/openclaw).
+
+---
 ### Provider-Specific
 
 *1 plugins | 1 total stars*
