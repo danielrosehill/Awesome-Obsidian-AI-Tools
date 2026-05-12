@@ -981,6 +981,18 @@ No description available.
 *Updated: 2025-04-23*
 
 ---
+---
+#### Qonspekt
+
+[![GitHub stars](https://img.shields.io/github/stars/DerTill123/qonspekt?style=flat-square)](https://github.com/DerTill123/qonspekt)
+[![GitHub](https://img.shields.io/badge/GitHub-DerTill123%2Fqonspekt-181717?logo=github)](https://github.com/DerTill123/qonspekt)
+[![Live Tool](https://img.shields.io/badge/Live-qonspekt-7c3aed)](https://dertill123.github.io/qonspekt/)
+
+Browser-based tool to turn any article into atomic Obsidian notes using Claude AI. BYOK — your API key stays in localStorage and goes directly to Anthropic. No backend, no account. Generates 3–7 atomic notes with YAML frontmatter, tags, aliases, and wikilinks. ZIP download for direct vault import.
+
+*Updated: 2026-05-12*
+
+
 ### Content Generation
 
 *5 plugins | 55 total stars*
