@@ -23,8 +23,8 @@ Browse the official [Obsidian Plugins page](https://obsidian.md/plugins) or use 
 
 ## Quick Stats
 
-- **86** plugins listed
-- **19,737** combined GitHub stars
+- **87** plugins listed
+- **19,737+** combined GitHub stars
 - **17** categories
 
 ### Most Popular (by stars)
@@ -54,7 +54,7 @@ Browse the official [Obsidian Plugins page](https://obsidian.md/plugins) or use 
 - [Templates & Prompts](#templates-prompts) (2 plugins, 90 stars)
 - [Summarization & Processing](#summarization-processing) (4 plugins, 76 stars)
 - [Content Generation](#content-generation) (5 plugins, 55 stars)
-- [Automation & Computer Control](#automation-computer-control) (1 plugins, 33 stars)
+- [Automation & Computer Control](#automation-computer-control) (2 plugins, 33+ stars)
 - [Provider-Specific](#provider-specific) (1 plugins, 1 stars)
 
 ---
@@ -1042,7 +1042,7 @@ No description available.
 ---
 ### Automation & Computer Control
 
-*1 plugins | 33 total stars*
+*2 plugins | 33+ total stars*
 
 #### Open Interpreter
 
@@ -1053,6 +1053,17 @@ No description available.
 The power of Open Interpreter in your Obsidian vault
 
 *Updated: 2025-11-17*
+
+---
+#### Hermes Console
+
+[![GitHub stars](https://img.shields.io/github/stars/dannyshmueli/obsidian-hermes-console?style=flat-square)](https://github.com/dannyshmueli/obsidian-hermes-console)
+[![GitHub](https://img.shields.io/badge/GitHub-dannyshmueli%2Fobsidian--hermes--console-181717?logo=github)](https://github.com/dannyshmueli/obsidian-hermes-console)
+[![Add Plugin](https://img.shields.io/badge/Obsidian-Add_Plugin-7c3aed?logo=obsidian)](https://obsidian.md/plugins?id=hermes-console)
+
+Run Hermes Agent in a tabbed terminal with selected-note context and background status alerts.
+
+*Updated: 2026-05-18*
 
 ---
 ### Provider-Specific
