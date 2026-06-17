@@ -8,7 +8,7 @@ A curated collection of Obsidian plugins focused on leveraging AI and LLMs insid
 > It has not been manually reviewed for accuracy or quality. Some plugins may be deprecated,
 > unmaintained, or miscategorized. Always check plugin documentation and reviews before installing.
 >
-> Last updated: 2025-12-15
+> Last updated: 2026-06-18
 
 ## Finding More Plugins
 
@@ -23,7 +23,7 @@ Browse the official [Obsidian Plugins page](https://obsidian.md/plugins) or use 
 
 ## Quick Stats
 
-- **86** plugins listed
+- **87** plugins listed
 - **19,737** combined GitHub stars
 - **17** categories
 
@@ -51,7 +51,7 @@ Browse the official [Obsidian Plugins page](https://obsidian.md/plugins) or use 
 - [Integration & Utilities](#integration-utilities) (3 plugins, 178 stars)
 - [Tagging & Classification](#tagging-classification) (1 plugins, 123 stars)
 - [Graph & Visualization](#graph-visualization) (1 plugins, 102 stars)
-- [Templates & Prompts](#templates-prompts) (2 plugins, 90 stars)
+- [Templates & Prompts](#templates-prompts) (3 plugins, 90 stars)
 - [Summarization & Processing](#summarization-processing) (4 plugins, 76 stars)
 - [Content Generation](#content-generation) (5 plugins, 55 stars)
 - [Automation & Computer Control](#automation-computer-control) (1 plugins, 33 stars)
@@ -909,7 +909,7 @@ Advanced graph view for Obsidian: text analysis, topic modeling, and AI with Inf
 ---
 ### Templates & Prompts
 
-*2 plugins | 90 total stars*
+*3 plugins | 90 total stars*
 
 #### AI Templater
 
@@ -931,6 +931,16 @@ Extends Templater with AI Chat commands using the OpenAI Client Library
 AI-zhipu is an Obsidian plugin that helps you utilize the Zhipu API. 智谱AI obsidian 插件 
 
 *Updated: 2025-12-01*
+
+---
+#### XHS Obsidian Workflow Starter
+
+[![GitHub stars](https://img.shields.io/github/stars/Ronnie2025/xhs-obsidian-workflow-starter?style=flat-square)](https://github.com/Ronnie2025/xhs-obsidian-workflow-starter)
+[![GitHub](https://img.shields.io/badge/GitHub-Ronnie2025%2Fxhs--obsidian--workflow--starter-181717?logo=github)](https://github.com/Ronnie2025/xhs-obsidian-workflow-starter)
+
+Free Obsidian templates for turning source notes into Xiaohongshu post packages, including content briefs, collection inboxes, publishing checklists, and an upgrade-decision checklist.
+
+*Updated: 2026-06-17*
 
 ---
 ### Summarization & Processing
