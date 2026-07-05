@@ -61,6 +61,7 @@ Browse the official [Obsidian Plugins page](https://obsidian.md/plugins) or use 
 
 ## Plugins
 
+- **[Context Kit](https://github.com/JDDavenport/context-kit)** — Personal Context Artifacts: 4 Markdown templates (wiki, mental-models, voice, protocols) + 5 Claude Code skills. Solves context amnesia — every session starts context-full. MIT, one-command install.
 ### Autocomplete & Writing Assistance
 
 *2 plugins | 5,968 total stars*
