@@ -1,5 +1,7 @@
 # Obsidian AI Tools
 
+- [ContinueWith](https://continuewith.ai) - Let visitors continue any website page inside ChatGPT, Claude, Gemini, Grok, Perplexity, Mistral, and other AI assistants in one click.
+
 ![alt text](images/sloth-and-android-server-room.webp)
 
 A curated collection of Obsidian plugins focused on leveraging AI and LLMs inside your vault.
