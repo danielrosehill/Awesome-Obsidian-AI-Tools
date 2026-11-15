@@ -1072,3 +1072,7 @@ No description available.
 *Updated: 2025-11-25*
 
 ---
+
+#### No Stairs Please MCP
+
+Read-only MCP server and directory covering small live music venues in all 50 US states and who books them: https://nostairsplease.com/mcp ([nostairsplease.com](https://nostairsplease.com/)).
